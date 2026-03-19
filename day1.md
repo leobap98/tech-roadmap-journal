@@ -17,4 +17,9 @@ git config --global user.name // configura globalmente el nombre del usuario.
 git config --global user.email // configura globalmente el email del usuario.
 git config ls // muestra el user.name y el user.email
 
+* He tenido problemas con el primer push de github en el que me pedia 
+un usuario y contraseña las cuales me decia que estaba mal todo el rato *
+
+- Sospecho que porque estaba usando el user en ve de el email pero para
+solucionarlo he conectado con git remote add origin [URL SSH]
 
